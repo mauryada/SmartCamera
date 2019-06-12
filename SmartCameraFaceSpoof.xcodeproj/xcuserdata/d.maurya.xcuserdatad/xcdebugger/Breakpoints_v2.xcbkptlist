@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SmartCameraTFInceptionV1-foxeynxxqtnvoaenlwkxajaaxdvm/Build/Intermediates.noindex/SmartCameraTFInceptionV1.build/Debug-iphoneos/SmartCameraTFInceptionV1.build/DerivedSources/CoreMLGenerated/mobile_6_core/mobile_6_core.swift"
+            timestampString = "581490125.0360889"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "prediction(input:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SmartCameraTFInceptionV1-foxeynxxqtnvoaenlwkxajaaxdvm/Build/Intermediates.noindex/SmartCameraTFInceptionV1.build/Debug-iphoneos/SmartCameraTFInceptionV1.build/DerivedSources/CoreMLGenerated/mobile_6_core/mobile_6_core.swift"
+            timestampString = "581490125.036422"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "prediction(input:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SmartCameraTFInceptionV1-foxeynxxqtnvoaenlwkxajaaxdvm/Build/Intermediates.noindex/SmartCameraTFInceptionV1.build/Debug-iphoneos/SmartCameraTFInceptionV1.build/DerivedSources/CoreMLGenerated/mobile_6_core/mobile_6_core.swift"
+            timestampString = "581490125.0366549"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "prediction(input__0:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SmartCameraTFInceptionV1-foxeynxxqtnvoaenlwkxajaaxdvm/Build/Intermediates.noindex/SmartCameraTFInceptionV1.build/Debug-iphoneos/SmartCameraTFInceptionV1.build/DerivedSources/CoreMLGenerated/mobile_6_core/mobile_6_core.swift"
+            timestampString = "581490125.036857"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "predictions(inputs:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/SmartCameraTFInceptionV1-foxeynxxqtnvoaenlwkxajaaxdvm/Build/Intermediates.noindex/SmartCameraTFInceptionV1.build/Debug-iphoneos/SmartCameraTFInceptionV1.build/DerivedSources/CoreMLGenerated/mobile_6_core/mobile_6_core.swift"
+            timestampString = "581490140.461904"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartCameraTFInceptionV1/ViewController.swift"
+            timestampString = "582062065.095117"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "714"
+            endingLineNumber = "714"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartCameraTFInceptionV1/ViewController.swift"
+            timestampString = "582062065.095974"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "716"
+            endingLineNumber = "716"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartCameraFaceSpoof/ViewController.swift"
+            timestampString = "582063391.720193"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "720"
+            endingLineNumber = "720"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartCameraFaceSpoof/ViewController.swift"
+            timestampString = "582063400.077561"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "715"
+            endingLineNumber = "715"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartCameraFaceSpoof/ViewController.swift"
+            timestampString = "582063414.2874351"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "701"
+            endingLineNumber = "701"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmartCameraFaceSpoof/ViewController.swift"
+            timestampString = "582063420.407945"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "572"
+            endingLineNumber = "572"
+            landmarkName = "captureOutput(_:didOutput:from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
